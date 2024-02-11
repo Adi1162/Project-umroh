@@ -23,20 +23,19 @@
               <div class="address">
                 <i class="bi bi-geo-alt"></i>
                 <h4>Lokasi:</h4>
-                <p>Langslebar Laok, Bira Timur.
-                  Kec. Sokobanah, Kabupaten Sampang, Jawa Timur 69262</p>
+                <p> Jl. Baturaden remppoah sebelah Bank BRI Rempoah Purwokerto, Jawa Tengah 53151</p>
               </div>
 
               <div class="email">
                 <i class="bi bi-envelope"></i>
                 <h4>Email:</h4>
-                <p>arfatravelandtour@gmail.com</p>
+                <p>kurniamarnaditour@gmail.com</p>
               </div>
 
               <div class="phone">
                 <i class="bi bi-phone"></i>
                 <h4>Call:</h4>
-                <p>+62 8233 8249 477</p>
+                <p>+62 8522 6966 286</p>
               </div>
 
             </div>

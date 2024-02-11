@@ -2,7 +2,7 @@
     <div class="container d-flex align-items-center">
 
     
-      <h1 class="logo me-auto"><a href="{{ url('/') }}">Kurnia Mardani Tour</a></h1>
+      <h1 class="logo me-auto"><a href="{{ url('/') }}">Kurnia Madani Tour</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
 
 

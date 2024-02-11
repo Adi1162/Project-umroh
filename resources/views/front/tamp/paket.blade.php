@@ -50,7 +50,9 @@
                       <hr class="my-0" />
                       <div class="card-body" style="background-color: #7ed899">
                         <div class="d-flex justify-content-center align-items-center">
-                            <button class="rounded bg-success text-white py-2 px-4 hover:bg-success-dark">Submit</button>
+                            <a href="https://api.whatsapp.com/send/?phone=%2B19288513265&text=assalamu%27alaikum+saya+tertarik+mengikuti+umroh+dan+haji+bersama+Arfa&type=phone_number&app_absent=0" class="tombol btn text-white" style="font-size: 24px;">
+                            <i class='bx bxl-whatsapp me-2'></i>Chat Sekarang
+                          </a>  
                         </div>
                     </div>
                     

@@ -45,7 +45,7 @@
             <th>No</th>
               <th>Nama</th>
               <th>NIK</th>
-              <th>Tetala</th>
+              <th>Tempat Tanggal Lahir</th>
               <th>Jenis Kelamin</th>
               <th>Alamat</th>
               <th>Telepon</th>
